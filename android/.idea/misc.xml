@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/hoctap/monhoc/android/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/hoctap/monhoc/android/app/src/main/res/layout/activity_screen2.xml" value="0.22826086956521738" />
-        <entry key="..\:/hoctap/monhoc/android/app/src/main/res/layout/test1.xml" value="0.16" />
-        <entry key="..\:/hoctap/monhoc/android/app/src/main/res/layout/testlayout.xml" value="0.264" />
+        <entry key="..\:/hoctap/android/app/src/main/res/drawable/drawable_purple_gradient.xml" value="0.1275" />
+        <entry key="..\:/hoctap/android/app/src/main/res/drawable/drawable_redwith_gradient.xml" value="0.1165" />
+        <entry key="..\:/hoctap/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1275" />
+        <entry key="..\:/hoctap/android/app/src/main/res/layout/activity_dangky.xml" value="0.264" />
+        <entry key="..\:/hoctap/android/app/src/main/res/layout/activity_dangnhap.xml" value="0.2" />
+        <entry key="..\:/hoctap/android/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/hoctap/android/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/android/app/src/main/res/layout/activity_trangchu.xml" value="0.2" />
+        <entry key="..\:/hoctap/android/app/src/main/res/layout/screen2.xml" value="0.11200000000000002" />
+        <entry key="..\:/hoctap/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
